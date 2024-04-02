@@ -1,0 +1,16 @@
+1. Se creo la parte del Backend
+	Se tuvo cuidado de seleccionar war y no jar ya que se iba a utilizar Tomcat.
+
+2. Se creo el Frontend con
+	npx create-react-app app_name_en_minuscula.
+
+3. Se instalo bootstrap
+	npm i bootstrap
+
+4. Se instalo axios
+	npm i axios
+
+5. Se instalado React Router Dom
+	npm i react-router-dom
+
+6. 
